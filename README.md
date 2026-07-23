@@ -6,4 +6,4 @@ sebelum build, ubah app.tsx ke
 <Route path="/taskmanager" element={<Home />} />
 ```
 
-ubah index.html to src="./.."
+ubah index.html to src="./.." & href="./favicon.svg" />
